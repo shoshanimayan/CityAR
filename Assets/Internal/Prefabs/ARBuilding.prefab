@@ -3351,6 +3351,18 @@ MonoBehaviour:
   - {fileID: 2100000, guid: f21caee661cadb94796595819371e86e, type: 2}
   - {fileID: 2100000, guid: be5c271dec58f844b9ad23899982e39b, type: 2}
   - {fileID: 2100000, guid: 01ba73e146c8b8543984f07ce7d733f9, type: 2}
+  _hueMin: 0.25
+  _hueMax: 1
+  _saturationMin: 0.75
+  _saturationMax: 1
+  _valueMin: 0.2
+  _valueMax: 1
+  _xMin: 0.08
+  _xMax: 0.11
+  _yMin: 0.1
+  _yMax: 0.21
+  _zMin: 0.08
+  _zMax: 0.11
 --- !u!1 &4851406712184160318
 GameObject:
   m_ObjectHideFlags: 0
