@@ -17,7 +17,7 @@ application was made using Unity 6, version 6000.0.27f1, the latest long term su
 
 application can be tested within the local editor using unity's XR simulator, read [here](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/xr-simulation/simulation-getting-started.html) for instructions and details for how to use that, but it should allow you to move and look around, and click the mouse to simulate using the app on a phone in a real environment. 
 
-to use the application outside the editor, you will need an ios or android device that is either arkit or arcore compatible, this application was only tested in editor and on an android mobile phone.
+to use the application outside the editor, you will need an ios or android device that is either arkit or arcore compatible, this application was only tested in editor and on an android mobile phone. Some features like AR occlusion only function on compatible devices, various things like the quality of the device can effect the quality of the apps ability to accurately detect planes. 
 
 ## Android
 
