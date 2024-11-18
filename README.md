@@ -7,7 +7,11 @@ if the user taps on the screen at any position on a detected, a car will spawn.
 if the user taps on a car or building, they will be destroyed.
 buildings and cars have real world occlusion on supported devices.
 
-## Install instructions
+## Use Instructions
+
+once the app is installed on your device, give the app permission to access the phones camera, all you will need to do is slowly look around the environment with your phone to let it scan the environment, the city buildings will emerge as floor planes are detected by the app
+
+## Install Instructions
 
 application was made using Unity 6, version 6000.0.27f1, the latest long term support release from unity at time of writing, you will need to install that or later version to open and run the application locally.
 
