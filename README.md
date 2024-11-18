@@ -17,14 +17,16 @@ application was made using Unity 6, version 6000.0.27f1, the latest long term su
 
 application can be tested within the local editor using unity's XR simulator, read [here](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.0/manual/xr-simulation/simulation-getting-started.html) for instructions and details for how to use that, but it should allow you to move and look around, and click the mouse to simulate using the app on a phone in a real environment. 
 
+to use the application outside the editor, you will need an ios or android device that is either arkit or arcore compatible, this application was only tested in editor and on an android mobile phone.
+
 ## Android
 
-an apk for this project can be found attached to the latest release from this repo, and can be sideloaded onto any compatiable mobile android phoen
+an android apk for this project can be found attached to the latest release from this repo, and can be sideloaded onto any compatiable android mobile phone
 if you want to make your own buld see [these](https://docs.unity3d.com/Manual/android-BuildProcess.html) instructions
 
 ## IOS
 
-if you want to run the app on ios, you will need to make your own build, you will need a mac, and to follow [these](https://docs.unity3d.com/Manual/iphone-BuildProcess.html) instructions
+if you want to run the app on a compatible ios device, you will need to make your own build, you will need a mac, and to follow [these](https://docs.unity3d.com/Manual/iphone-BuildProcess.html) instructions
 
 ## Crediting and Assets used.
 
