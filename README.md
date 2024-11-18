@@ -26,4 +26,4 @@ if you want to run the app on ios, you will need to make your own build, you wil
 
 models used for buildings and cars are from Kenny Assets, found [here](https://kenney.nl/assets/city-kit-commercial) and [here](https://kenney.nl/assets/car-kit)
 
-used AR plane occlusion shader and material from the unity AR foundations sample project repo found [here](https://github.com/Unity-Technologies/arfoundation-samples) 
+used AR plane occlusion shader and AR plane material from the unity AR foundations sample project repo found [here](https://github.com/Unity-Technologies/arfoundation-samples) 
