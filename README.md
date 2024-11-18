@@ -1,6 +1,6 @@
 # CityAR
  
-AR app that detects floors in your environment and renders a city on the floor. 
+Mobile AR app that detects floors in your environment and renders a city on the floor. 
 City is rendered over the camera pass through wherever floors are detected.
 City consists of just buildings at random positions in the floor, with randomized colors and dimensions within a certain range.
 if the user taps on the screen at any position on a detected, a car will spawn.
